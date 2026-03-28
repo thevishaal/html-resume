@@ -6,7 +6,7 @@ This repository contains a strictly semantic HTML5 resume. It was developed as a
 
 ## Accessing the Project
 
-Check out the live version of this website at: 
+Check out the live version of this website at: [thevishaal/html-resume](https://thevishaal.github.io/html-resume/) 
 
 To clone the repository locally, execute the following command:
 
